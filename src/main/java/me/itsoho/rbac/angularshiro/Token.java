@@ -1,4 +1,4 @@
-package cn.adfi.angularshiro;
+package me.itsoho.rbac.angularshiro;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

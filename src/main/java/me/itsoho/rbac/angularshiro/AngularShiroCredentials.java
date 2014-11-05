@@ -1,6 +1,6 @@
-package cn.adfi.angularshiro;
+package me.itsoho.rbac.angularshiro;
 
-public class AngularShiroPrincipal {
+public class AngularShiroCredentials {
 	private String name;
 	private String login;
 	private String email;
@@ -22,7 +22,6 @@ public class AngularShiroPrincipal {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-	
 	
 	
 }

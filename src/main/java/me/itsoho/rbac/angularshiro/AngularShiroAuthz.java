@@ -1,4 +1,4 @@
-package cn.adfi.angularshiro;
+package me.itsoho.rbac.angularshiro;
 
 import java.util.Set;
 

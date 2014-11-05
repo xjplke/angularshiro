@@ -1,4 +1,4 @@
-package cn.adfi.angularshiro;
+package me.itsoho.rbac.angularshiro;
 
 public class AngularShiroInfo {
 	AngularShiroAuthc authc;
